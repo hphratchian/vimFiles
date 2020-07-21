@@ -25,3 +25,7 @@ augroup END
 augroup filetypedetect
 au BufNewFile,BufRead *.cls     setf tex
 augroup END
+
+augroup filetypedetect
+au BufNewFile,BufRead *.com	setf gjf
+augroup END
