@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/hhratchian/Codes/summerCodingWorkshop/Exercises_Workshop2/ProblemSet01-ModifiedPIB'
+let g:netrw_dirhist_2='/home/hhratchian/Codes/summerCodingWorkshop/Exercises_Workshop2/ProblemSet01-ModifiedPIB/SolutionCodes'
+let g:netrw_dirhist_3='/home/hhratchian/Codes/summerCodingWorkshop/Exercises_Workshop2'
+let g:netrw_dirhist_4='/home/hhratchian/Codes/summerCodingWorkshop/Exercises_Workshop2/ProblemSet01-ModifiedPIB'
+let g:netrw_dirhist_5='/home/hhratchian/Codes/summerCodingWorkshop/Exercises_Workshop2/ProblemSet01-ModifiedPIB/SolutionCodes'
